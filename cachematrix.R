@@ -6,7 +6,7 @@
 
 ## Write a short comment describing this function
 
-## return a list which contains functions to:
+## return a list which contains four functions to:
 ## 1. set matrix
 ## 2. get matrix
 ## 3. set inverse of matrix
